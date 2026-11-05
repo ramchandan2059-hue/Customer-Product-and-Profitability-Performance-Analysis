@@ -1,0 +1,15 @@
+rank,feature,impurity_importance_margin_model,permutation_importance_margin_model,permutation_importance_margin_std,permutation_importance_loss_model_auc
+1,discount_pct,0.188138,0.000396,0.000156,0.00104
+2,Type,0.083507,0.000301,0.000173,0.004185
+3,Market,0.056184,0.000264,0.000217,0.003045
+4,Delivery Status,0.017189,0.000107,7.6e-05,0.000705
+5,Order Region,0.151811,5e-05,0.000139,0.001381
+6,Order Item Quantity,0.072403,4.5e-05,9.3e-05,0.000445
+7,Category Name,0.090125,-2.4e-05,0.000175,-0.000724
+8,Days for shipment (scheduled),0.015068,-5.7e-05,4.8e-05,-2.7e-05
+9,Department Name,0.047223,-0.00017,0.000102,-0.000121
+10,Days for shipping (real),0.051178,-0.00023,0.000157,0.000428
+11,shipping_delay,0.049811,-0.000244,7.5e-05,-0.001753
+12,Shipping Mode,0.021767,-0.000292,0.000123,0.001943
+13,Customer Segment,0.064549,-0.000298,0.000236,0.000535
+14,Order Item Product Price,0.091046,-0.000455,0.000315,0.001743
